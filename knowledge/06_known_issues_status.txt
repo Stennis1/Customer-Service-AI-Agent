@@ -1,0 +1,7 @@
+Current Known Issues:
+
+- Minor delay in analytics dashboard refresh (Resolved in progress).
+- Some users report slow file upload during peak hours.
+
+Workaround:
+- Try uploading during non-peak hours (after 6PM GMT).

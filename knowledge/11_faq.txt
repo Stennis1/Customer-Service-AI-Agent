@@ -1,0 +1,13 @@
+FAQ:
+
+Q: Can we migrate data from another platform?
+A: Yes, CSV import and assisted migration are available.
+
+Q: Is AdillisEdu mobile-friendly?
+A: Yes, fully responsive web application.
+
+Q: Can parents see grades?
+A: Yes, if enabled by the school administrator.
+
+Q: Does AdillisEdu support multiple campuses?
+A: Yes, Enterprise plan supports multi-campus management.

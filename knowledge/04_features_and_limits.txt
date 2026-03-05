@@ -1,0 +1,20 @@
+Feature Limits:
+
+Student Capacity:
+- Starter: 200 students
+- Pro: 1000 students
+- Enterprise: Unlimited
+
+File Upload Limits:
+- Max 20MB per document.
+
+API Rate Limits:
+- 1000 requests per hour (Pro)
+- 5000 requests per hour (Enterprise)
+
+Parent Accounts:
+- Unlimited per student.
+
+Data Retention:
+- Active accounts: unlimited storage.
+- Cancelled accounts: data retained for 90 days.

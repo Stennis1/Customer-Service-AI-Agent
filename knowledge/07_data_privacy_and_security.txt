@@ -1,0 +1,12 @@
+Security and Data Protection:
+
+- All data encrypted in transit (TLS 1.2+).
+- Database encryption at rest.
+- Role-based access control (RBAC).
+- GDPR compliant.
+- Data export available upon request.
+
+Admins can:
+- Export student data.
+- Delete accounts.
+- Restrict teacher permissions.

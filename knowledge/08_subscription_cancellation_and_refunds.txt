@@ -1,0 +1,12 @@
+Subscription Cancellation:
+
+- Cancel anytime via Billing Settings.
+- Access remains active until end of billing cycle.
+
+Refund Policy:
+- Monthly plans: No refunds once billing cycle starts.
+- Annual plans: Refund available within 14 days of purchase.
+
+Data Deletion:
+- Data retained for 90 days after cancellation.
+- Permanent deletion after 90 days.

@@ -1,0 +1,26 @@
+AdillisEdu Pricing Plans:
+
+Starter Plan:
+- Up to 200 students
+- Basic reporting
+- Email support
+
+Pro Plan:
+- Up to 1000 students
+- Advanced analytics
+- Parent portal
+- Priority support
+
+Enterprise Plan:
+- Unlimited students
+- Dedicated account manager
+- Custom integrations
+
+Billing Information:
+- Monthly or yearly subscription
+- Payments processed via Stripe
+- Invoices available under Billing Settings
+
+Failed Payment:
+- Retry within 3 days
+- Account restricted after 7 days of non-payment

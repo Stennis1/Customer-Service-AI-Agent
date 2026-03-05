@@ -1,0 +1,17 @@
+To get started with AdillisEdu:
+
+1. Create an account at https://adillisedu.com
+2. Verify your email address.
+3. Complete your school profile:
+   - School name
+   - Address
+   - Academic calendar
+4. Add teachers and administrative staff.
+5. Import students via CSV upload or manual entry.
+6. Configure class structure and subjects.
+7. Enable parent portal access if needed.
+
+Recommended First Actions:
+- Set up grading structure.
+- Configure fee categories.
+- Assign teachers to classes.

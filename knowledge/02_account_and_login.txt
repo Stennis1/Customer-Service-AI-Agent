@@ -1,0 +1,19 @@
+Common Account Issues:
+
+1. Forgot Password:
+   - Click "Forgot Password" on login page.
+   - Enter registered email.
+   - Follow reset link sent to your inbox.
+
+2. Email Not Verified:
+   - Check spam folder.
+   - Resend verification email from login screen.
+
+3. Two-Factor Authentication (2FA):
+   - Enabled under Account Settings.
+   - Requires authentication app (e.g., Google Authenticator).
+
+4. Account Locked:
+   - After 5 failed login attempts.
+   - Automatically unlocks after 30 minutes.
+   - Contact support if urgent access is needed.

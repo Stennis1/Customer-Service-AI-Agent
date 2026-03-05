@@ -1,0 +1,10 @@
+Supported Integrations:
+
+- Google Classroom (sync assignments)
+- Stripe (payment processing)
+- Zoom (virtual classes)
+- Microsoft 365
+
+API Access:
+- Available on Pro and Enterprise plans.
+- Requires API key from developer settings.

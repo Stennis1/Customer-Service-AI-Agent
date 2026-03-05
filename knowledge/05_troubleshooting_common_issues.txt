@@ -1,0 +1,18 @@
+Common Issues and Fixes:
+
+1. Attendance Not Saving:
+   - Check internet connection.
+   - Refresh browser and retry.
+   - Ensure teacher has attendance permission.
+
+2. Report Card Not Generating:
+   - Ensure grades are published.
+   - Confirm grading structure is configured.
+
+3. Parent Cannot Login:
+   - Confirm invitation email was accepted.
+   - Reset parent password.
+
+4. CSV Upload Fails:
+   - Ensure format matches provided template.
+   - Check for missing required columns.

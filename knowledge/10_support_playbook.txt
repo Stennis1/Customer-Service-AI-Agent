@@ -1,0 +1,17 @@
+Support Guidelines:
+
+Tone:
+- Professional and helpful.
+- Clear and concise.
+- Avoid technical jargon when speaking to school administrators.
+
+Escalation:
+- Billing disputes → Finance team
+- Data security concerns → Security team
+- System outages → Engineering
+
+Always gather:
+- User email
+- School name
+- Screenshot if possible
+- Steps to reproduce issue
