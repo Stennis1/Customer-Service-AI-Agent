@@ -6,6 +6,7 @@ LangChain-based customer support agent with:
 - Two local interfaces: CLI and Streamlit web chat
 
 Repository: `https://github.com/Stennis1/Customer-Service-AI-Agent`
+Live URL: `https://customer-service-ai-agent-a97r.onrender.com/`
 
 ## Features
 
@@ -106,6 +107,23 @@ streamlit run web_app.py
 ```
 
 Streamlit will print a local URL (typically `http://localhost:8501`).
+
+## Deployment (Render)
+
+This repository includes a Render Blueprint file:
+- `render.yaml` in the project root
+
+Live deployment:
+- https://customer-service-ai-agent-a97r.onrender.com/
+
+Deploy steps:
+1. Push latest code to GitHub.
+2. In Render, choose `New` -> `Blueprint`.
+3. Select this repository (Render reads `render.yaml` automatically).
+4. Set required environment variables in Render:
+   - `OPENAI_API_KEY` (required)
+   - `OPENAI_MODEL` (optional)
+   - `CUSTOMER_API_BASE_URL` and `CUSTOMER_API_KEY` (optional, for live backend API calls)
 
 ## Knowledge Base
 

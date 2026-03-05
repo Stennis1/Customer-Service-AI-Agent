@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: customer-service-ai-agent
+    runtime: python
+    plan: free
+    autoDeploy: true
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run web_app.py --server.address 0.0.0.0 --server.port $PORT --server.headless true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
+      - key: OPENAI_MODEL
+        value: openai:gpt-4o-mini
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: CUSTOMER_API_BASE_URL
+        sync: false
+      - key: CUSTOMER_API_KEY
+        sync: false
